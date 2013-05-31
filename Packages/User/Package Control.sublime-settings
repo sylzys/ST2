@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"Backbone.js",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSSLint",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Hayaku - tools for writing CSS faster",
+		"jQuery",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TrailingSpaces"
+	]
+}
