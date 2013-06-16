@@ -14,7 +14,7 @@
 		"/Users/sylv/Sites/JS/angular/ecom",
 		"/Users/sylv/Sites/BBone"
 	],
-	"last_window_id": 52,
+	"last_window_id": 61,
 	"settings":
 	{
 		"new_window_height": 438.0,
@@ -24,6 +24,26 @@
 			{
 				"selected_items":
 				[
+					[
+						"cl",
+						"cl	console.log"
+					],
+					[
+						"ho",
+						"horses"
+					],
+					[
+						"tas",
+						"tasks_tab"
+					],
+					[
+						"pr",
+						"projectId"
+					],
+					[
+						"mysql_nu",
+						"mysql_num_rows"
+					],
 					[
 						"Ho",
 						"HorseCollection"
@@ -157,20 +177,20 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 147.0,
 				"selected_items":
 				[
 					[
-						"tra",
-						"Trailing Spaces: Delete Trailing Spaces"
+						"fold",
+						"Project: Add Folder"
 					],
 					[
 						"trai",
 						"Trailing Spaces: Delete Trailing Spaces"
 					],
 					[
-						"fold",
-						"Project: Add Folder"
+						"tra",
+						"Trailing Spaces: Delete Trailing Spaces"
 					],
 					[
 						"fol",
@@ -238,7 +258,15 @@
 			},
 			"file_history":
 			[
-				"/Users/sylv/Sites/cesi2.dev/application/controllers/prodController.php",
+				"/Users/sylv/Sites/BBone/PT/css/theme.blue.css",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/console.log.sublime-snippet",
+				"/Users/sylv/Sites/BBone/caencamp/index.html",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/CSSLint/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/sylv/Sites/BBone/caencamp/js/script_JS.js",
 				"/Users/sylv/Sites/BBone/PT/main.js",
 				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/js/main.js",
 				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/index.html",
@@ -273,8 +301,6 @@
 				"/Users/sylv/Sites/test_antho/css/style.css",
 				"/Users/sylv/Sites/cesi2.dev/public/js/prod.js",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/html5.sublime-snippet",
-				"/Users/sylv/Sites/BBone/caencamp/js/script_JS.js",
-				"/Users/sylv/Sites/BBone/caencamp/index.html",
 				"/Users/sylv/Sites/jingleweb/js/script.js",
 				"/Users/sylv/Sites/BBone/main.js",
 				"/Users/sylv/Sites/cesi2.dev/public/js/stock.js",
@@ -304,10 +330,8 @@
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/bh_core.sublime-settings",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/Example.sublime-keymap",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
-				"/Users/sylv/Sites/asl.html",
-				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap"
+				"/Users/sylv/Sites/asl.html"
 			],
 			"find":
 			{
@@ -327,6 +351,9 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"fetch",
+					"super+e",
+					"taskLis",
 					"tasks",
 					"serverU",
 					"php",
@@ -374,18 +401,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -432,6 +452,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"cl",
+						"cl	console.log"
+					],
+					[
+						"ho",
+						"horses"
+					],
 					[
 						"tas",
 						"tasks_tab"
@@ -623,7 +651,7 @@
 					"file": "/Users/sylv/Sites/BBone/PT/bdd.php",
 					"settings":
 					{
-						"buffer_size": 2266,
+						"buffer_size": 2556,
 						"line_ending": "Unix"
 					}
 				},
@@ -639,7 +667,7 @@
 					"file": "/Users/sylv/Sites/BBone/PT/index.html",
 					"settings":
 					{
-						"buffer_size": 854,
+						"buffer_size": 1980,
 						"line_ending": "Unix"
 					}
 				},
@@ -647,7 +675,7 @@
 					"file": "/Users/sylv/Sites/BBone/PT/js/main.js",
 					"settings":
 					{
-						"buffer_size": 595,
+						"buffer_size": 2795,
 						"line_ending": "Unix"
 					}
 				},
@@ -660,10 +688,26 @@
 					}
 				},
 				{
+					"contents": "var serverUrl = 'bdd.php/';\n\nvar Horse = Backbone.Model.extend({\n	initialize: function(){\n		console.log(\"horse created\");\n	},\n	defaults: {\n		id: null,\n		name: '',\n		notes: '',\n		d4_3: 0,\n		dp_3: 0,\n		da_3: 0,\n		d4_2: 0,\n		dp_2: 0,\n		da_2: 0,\n		d4_1: 0,\n		dp_1: 0,\n		da_1: 0,\n		km_1: 0,\n		km_2: 0,\n		km_3: 0,\n		cc_1: 0,\n		cc_2: 0,\n		cc_3: 0,\n		m_cc: 0,\n		m_km: 0,\n		m_t_rect: 0,\n		moy: 0,\n		m_moy: 0\n	},\n	urlRoot: serverUrl + 'horse'\n});\n\nvar HorseCollection = Backbone.Collection.extend({\n	model: Horse,\n	url: serverUrl + 'horse'\n});\nvar toSearch = \"\";\n// var lines = $(\"#txt\").val().split(\"\\n\");\n// for (t in lines){\n// 	console.log(\" -> \", lines[t].split(\"\\t\")[2].trim())\n// 	var toSearch = toSearch + (lines[t].split(\"\\t\")[2].trim()).replace(\"'\", \"''\") + \";\";\n// }\nhorses = new HorseCollection();\nconsole.log(\"fuck\");\nhorses.fetch({data: {'find': \"toto;titi;plop\"}, processData: true, success: function() {\n	console.log(horses);\n	var h = horses.get(0);\n	console.log(\"my horse : \", h.attributes);\n}, error: function() {\n	console.log('ERROR');\n}\n});\n\n// var Consult = Backbone.View.extend({\n// 	el: $('#form'),\n// 	events: {\n// 		\"click button#submit\": \"search\"\n// 	},	\n// 	search: function(){\n// 		console.log(\"log : \");\n		\n\n// 	}\n// });\n\n// var c = new Consult();",
+					"settings":
+					{
+						"buffer_size": 1266,
+						"line_ending": "Unix"
+					}
+				},
+				{
 					"file": "/Users/sylv/Sites/BBone/caencamp/js/script_JS.js",
 					"settings":
 					{
 						"buffer_size": 3588,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/sylv/Sites/BBone/caencamp/index.html",
+					"settings":
+					{
+						"buffer_size": 1853,
 						"line_ending": "Unix"
 					}
 				}
@@ -671,16 +715,16 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 147.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
-						"fold",
-						"Project: Add Folder"
-					],
-					[
 						"trai",
 						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"fold",
+						"Project: Add Folder"
 					],
 					[
 						"tra",
@@ -752,6 +796,9 @@
 			},
 			"file_history":
 			[
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/TrailingSpaces/README.md",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/console.log.sublime-snippet",
 				"/Users/sylv/Sites/BBone/caencamp/index.html",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/CSSLint/Default (OSX).sublime-keymap",
@@ -821,7 +868,6 @@
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/bh_core.sublime-settings",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/Example.sublime-keymap",
-				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
 				"/Users/sylv/Sites/asl.html"
 			],
@@ -843,6 +889,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"fetch",
 					"super+e",
 					"taskLis",
 					"tasks",
@@ -1074,8 +1121,8 @@
 								"selection":
 								[
 									[
-										4325,
-										4332
+										11179,
+										11184
 									]
 								],
 								"settings":
@@ -1217,7 +1264,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 4586.0,
+								"translation.y": 301.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1234,8 +1281,8 @@
 								"selection":
 								[
 									[
-										958,
-										962
+										4651,
+										4651
 									]
 								],
 								"settings":
@@ -1378,7 +1425,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 709.0,
+								"translation.y": 2168.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1538,8 +1585,8 @@
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 0.0,
-								"translation.y": 238.0,
+								"translation.x": 1.0,
+								"translation.y": 307.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1708,15 +1755,15 @@
 							"file": "/Users/sylv/Sites/BBone/PT/bdd.php",
 							"settings":
 							{
-								"buffer_size": 2266,
+								"buffer_size": 2556,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2090,
-										2090
+										2348,
+										2348
 									]
 								],
 								"settings":
@@ -1858,7 +1905,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 549.0,
+								"translation.y": 639.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1874,7 +1921,7 @@
 								"selection":
 								[
 									[
-										2471,
+										0,
 										2471
 									]
 								],
@@ -1938,15 +1985,15 @@
 							"file": "/Users/sylv/Sites/BBone/PT/index.html",
 							"settings":
 							{
-								"buffer_size": 854,
+								"buffer_size": 1980,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										500,
-										500
+										389,
+										389
 									]
 								],
 								"settings":
@@ -2097,15 +2144,15 @@
 							"file": "/Users/sylv/Sites/BBone/PT/js/main.js",
 							"settings":
 							{
-								"buffer_size": 595,
+								"buffer_size": 2795,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										588,
-										588
+										1759,
+										1759
 									]
 								],
 								"settings":
@@ -2248,7 +2295,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1029.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2264,8 +2311,8 @@
 								"selection":
 								[
 									[
-										1259,
-										1259
+										640,
+										1231
 									]
 								],
 								"settings":
@@ -2325,6 +2372,76 @@
 						},
 						{
 							"buffer": 10,
+							"settings":
+							{
+								"buffer_size": 1266,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										1266
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 324.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
 							"file": "/Users/sylv/Sites/BBone/caencamp/js/script_JS.js",
 							"settings":
 							{
@@ -2335,8 +2452,8 @@
 								"selection":
 								[
 									[
-										2707,
-										2811
+										2807,
+										2763
 									]
 								],
 								"settings":
@@ -2478,7 +2595,167 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1324.0,
+								"translation.y": 1454.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/Users/sylv/Sites/BBone/caencamp/index.html",
+							"settings":
+							{
+								"buffer_size": 1853,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										791,
+										808
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
