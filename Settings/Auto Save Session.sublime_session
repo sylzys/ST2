@@ -1,57 +1,215 @@
 {
 	"folder_history":
 	[
+		"/Users/sylv/Sites/BBone/caencamp",
+		"/Users/sylv/Sites/BBone/PT",
+		"/Users/sylv/Sites/Ruby/RoR/depot",
+		"/Users/sylv/Sites/Ruby/RoR/demo",
+		"/Users/sylv",
+		"/Users/sylv/Sites/test_antho/js",
+		"/Users/sylv/Sites/cesi2.dev/public/js",
+		"/Users/sylv/Sites/cesi2.dev/application/views",
+		"/Users/sylv/Sites/cesi2.dev/application/controllers",
+		"/Users/sylv/Sites/JS/angular/app",
+		"/Users/sylv/Sites/JS/angular/ecom",
+		"/Users/sylv/Sites/BBone"
 	],
-	"last_window_id": 1,
+	"last_window_id": 52,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_height": 438.0,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"Ho",
+						"HorseCollection"
+					],
+					[
+						"ser",
+						"serverUrl"
+					],
+					[
+						"HO",
+						"HorseCollection"
+					],
+					[
+						"H",
+						"Horse"
+					],
+					[
+						"req",
+						"request_method"
+					],
+					[
+						"mo",
+						"Model"
+					],
+					[
+						"mysql_",
+						"mysql_connect"
+					],
+					[
+						"Pr",
+						"product"
+					],
+					[
+						"image",
+						"image_url"
+					],
+					[
+						"h",
+						"h1	Tag"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"tota",
+						"totalPlayer"
+					],
+					[
+						"st",
+						"stats"
+					],
+					[
+						"question",
+						"questionList"
+					],
+					[
+						"butt",
+						"buttonClass"
+					],
+					[
+						"rout",
+						"routeParams"
+					],
+					[
+						"qi",
+						"QuestionController"
+					],
+					[
+						"to",
+						"total"
+					],
+					[
+						"poin",
+						"pointsToAdd"
+					],
+					[
+						"but",
+						"buttonClass"
+					],
+					[
+						"Back",
+						"BackGround"
+					],
+					[
+						"ques",
+						"questions"
+					],
+					[
+						"Bac",
+						"Background"
+					],
+					[
+						"n",
+						"newBg"
+					],
+					[
+						"rou",
+						"routeParams"
+					],
+					[
+						"nex",
+						"nextId"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"que",
+						"questionList"
+					],
+					[
+						"quest",
+						"questionList"
+					],
+					[
+						"qu",
+						"questionList"
+					],
+					[
+						"poi",
+						"pointsToAdd"
+					],
+					[
+						"po",
+						"pointsToAdd"
+					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 56,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nSublimeLinter:\n-------------\n\n  SublimeLinter\n  =============\n  \n  SublimeLinter is a plugin that supports \"lint\" programs (known as \"linters\"). SublimeLinter highlights\n  lines of code the linter deems to contain (potential) errors. It also\n  supports highlighting special annotations (for example: TODO) so that they\n  can be quickly located.\n  \n  SublimeLinter has built in linters for the following languages:\n  \n  * C/C++ - lint via `cppcheck`\n  * CoffeeScript - lint via `coffee -s -l`\n  * CSS - lint via built-in [csslint](http://csslint.net)\n  * Git Commit Messages - lint via built-in module based on [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).\n  * Haml - syntax check via `haml -c`\n  * HTML - lint via `tidy` (actually [tidy for HTML5](http://w3c.github.com/tidy-html5/))\n  * Java - lint via `javac -Xlint`\n  * JavaScript - lint via built in [jshint](http://jshint.org), [jslint](http://jslint.com), or the [closure linter (gjslint)](https://developers.google.com/closure/utilities/docs/linter_howto) (if installed)\n  * Lua - syntax check via `luac`\n  * Objective-J - lint via built-in [capp_lint](https://github.com/aparajita/capp_lint)\n  * Perl - lint via [Perl:Critic](http://perlcritic.com/) or syntax+deprecation check via `perl -c`\n  * PHP - syntax check via `php -l`\n  * Puppet - syntax check via `puppet parser validate`\n  * Python - native, moderately-complete lint\n  * Ruby - syntax check via `ruby -wc`\n  * XML - lint via `xmllint`\n  \n  \n  For more information:\n  ---------------------\n  Please take the time to read the documentation:\n  \n  * Online - https://github.com/SublimeLinter/SublimeLinter\n  * Sublime Text - Select Preferences->Package Settings->SublimeLinter->README\n  \n  \n  IMPORTANT\n  \n  Do NOT edit the default SublimeLinter settings. Your changes will be lost\n  when SublimeLinter is updated. ALWAYS edit the user SublimeLinter settings\n  by selecting \"Preferences->Package Settings->SublimeLinter->Settings - User\".\n  Note that individual settings you include in your user settings will **completely**\n  replace the corresponding default setting, so you must provide that setting in its entirety.\n  \n\n\nTrailingSpaces:\n--------------\n\n  \n  \n      Thank you for installing Trailing Spaces\n      ----------------------------------------\n  \n      You're now ready to give trailing spaces *a hard time*!\n  \n      Wait… I guess Package Control just introduced some of them :(\n      Why don't you try clicking \"Edit / Trailing Spaces / Delete\"?\n  \n  \n  \n  Documentation\n  =============\n  \n  Although the usage of this plugin is dead simple, it comes with several options. All\n  details are available in the documentation, and you can read it by clicking on\n  \"Preferences / Package Settings / Trailing Spaces / Help\", or in a prettier form, by\n  browsing https://github.com/SublimeText/TrailingSpaces.\n  \n  Key Binding\n  ===========\n  \n  This plugin does not come with a default key binding for the deletion command. You can\n  pick your own key binding and define it in \"Preferences / Key Bindings - User\", or just\n  stick to using the menu entry under \"Edit\". Check the help for advice on this.\n  \n  Upgrades & Issues\n  =================\n  \n  Package Control will automatically update all packages every time the editor is started,\n  so there is nothing for you to worry about. If you however do find the plugin not to work\n  as it used to, head to the issues tracker (see links below) to report the problem.\n  \n  Useful Links\n  ============\n  \n  * Documentation & Code: https://github.com/SublimeText/TrailingSpaces\n  * Report issues / Request New Features / Roadmap: https://github.com/SublimeText/TrailingSpaces/issues\n  * Follow me on twitter: @jdvauguet\n  \n",
-					"settings":
-					{
-						"buffer_size": 3806,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"scratch": true
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 332.0,
+				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"tra",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"trai",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"fold",
+						"Project: Add Folder"
+					],
+					[
+						"fol",
+						"Project: Add Folder"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"trail",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"syn",
+						"Set Syntax: PHP"
+					],
+					[
+						"folde",
+						"Project: Add Folder"
+					],
 					[
 						"i",
 						"Package Control: Install Package"
 					],
 					[
-						"in",
-						"Package Control: Install Package"
+						"packac",
+						"Package Control: Remove Package"
 					],
 					[
-						"pack",
+						"in",
 						"Package Control: Install Package"
 					],
 					[
@@ -63,7 +221,7 @@
 						"Preferences: Browse Packages"
 					]
 				],
-				"width": 384.0
+				"width": 521.0
 			},
 			"console":
 			{
@@ -80,12 +238,76 @@
 			},
 			"file_history":
 			[
+				"/Users/sylv/Sites/cesi2.dev/application/controllers/prodController.php",
+				"/Users/sylv/Sites/BBone/PT/main.js",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/js/main.js",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/index.html",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/markup.html",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/doc/tasks.sql",
+				"/Users/sylv/Sites/BBone/PT/bdd.php",
+				"/Users/sylv/Sites/Ruby/RoR/depot/test/unit/product_test.rb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/test/fixtures/products.yml",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/models/product.rb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/db/test.sqlite3",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/js/tasks.js",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/server/index.php",
+				"/Users/sylv/Sites/BBone/PT/js/main.js",
+				"/Users/sylv/Sites/BBone/PT/test.php",
+				"/Users/sylv/Sites/BBone/PT/index.html",
+				"/Users/sylv/Sites/Ruby/RoR/depot/test/functional/products_controller_test.rb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/assets/stylesheets/scaffolds.css.scss",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/assets/stylesheets/products.css.scss",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/views/products/index.html.erb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/views/layouts/application.html.erb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/controllers/products_controller.rb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/public/index.html",
+				"/Users/sylv/Sites/Ruby/RoR/depot/public/stylesheets/products.css.scss",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/assets/stylesheets/application.css",
+				"/Users/sylv/Sites/Ruby/RoR/depot/db/seeds.rb",
+				"/Users/sylv/Sites/Ruby/RoR/demo/app/views/say/goodbye.html.erb",
+				"/Users/sylv/Sites/Ruby/RoR/demo/app/views/say/hello.html.erb",
+				"/Users/sylv/Sites/Ruby/RoR/demo/db/seeds.rb",
+				"/Users/sylv/Sites/test_antho/index.html",
+				"/Users/sylv/Sites/test_antho/js/main.js",
+				"/Users/sylv/Sites/test_antho/test_json.php",
+				"/Users/sylv/Sites/test_antho/css/style.css",
+				"/Users/sylv/Sites/cesi2.dev/public/js/prod.js",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/html5.sublime-snippet",
+				"/Users/sylv/Sites/BBone/caencamp/js/script_JS.js",
+				"/Users/sylv/Sites/BBone/caencamp/index.html",
+				"/Users/sylv/Sites/jingleweb/js/script.js",
+				"/Users/sylv/Sites/BBone/main.js",
+				"/Users/sylv/Sites/cesi2.dev/public/js/stock.js",
+				"/Users/sylv/Sites/cesi2.dev/public/js/jquery.js",
+				"/Users/sylv/Sites/cesi2.dev/application/views/scripts/prod/createnom.phtml",
+				"/Users/sylv/Sites/JS/angular/app/js/controllers.js",
+				"/Users/sylv/Sites/JS/angular/ecom/js/app.js",
+				"/Users/sylv/Sites/JS/angular/ecom/partials/result.html",
+				"/Users/sylv/Sites/JS/angular/ecom/partials/welcome.html",
+				"/Users/sylv/Sites/JS/angular/ecom/index.html",
+				"/Users/sylv/Sites/JS/angular/ecom/css/app.css",
+				"/Users/sylv/Sites/JS/angular/ecom/partials/question.html",
+				"/Users/sylv/Sites/JS/angular/ecom/js/controllers.js",
+				"/Users/sylv/Sites/JS/angular/app/css/app.css",
+				"/Users/sylv/Sites/JS/angular/ecom/t.html",
+				"/Users/sylv/Sites/JS/angular/app/partials/view.html",
+				"/Users/sylv/Sites/JS/angular/app/node/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js",
+				"/Users/sylv/Sites/JS/angular/app/node/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html",
+				"/Users/sylv/Sites/JS/angular/app/partials/list.html",
+				"/Users/sylv/Sites/JS/angular/ecom/js/sqlite.js",
+				"/Users/sylv/Desktop/t",
+				"/Users/sylv/Sites/JS/angular/ecom/js/directives.js",
+				"/Users/sylv/Sites/JS/angular/ecom/img/glyphicons-halflings.png",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/Example.sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
-				"/Users/sylv/Sites/BBone/main.js",
 				"/Users/sylv/Sites/asl.html",
-				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
-				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap"
 			],
 			"find":
 			{
@@ -96,13 +318,28 @@
 				"height": 0.0,
 				"where_history":
 				[
+					"",
+					"controller.js"
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"tasks",
+					"serverU",
+					"php",
+					"remo",
+					"vos vo",
+					"vous",
+					"[[]]",
+					"select",
+					"backgr",
+					"brackets",
+					"bracket",
+					"curl",
+					"color",
 					"	<html>\n	<body>\n		<div style='padding:10px;width:500px;height:730px;border:1px solid black;border-radius: 20px;-moz-border-radius: 20px;\n		-webkit-border-radius: 20px;\n		border-radius: 20px;\n		background-image: -moz-linear-gradient(top, #8eccfd, #bfe2fe);\n		background-image: -ms-linear-gradient(top, #8eccfd, #bfe2fe);\n		background-image: -o-linear-gradient(top, #8eccfd, #bfe2fe);\n		background-image: -webkit-gradient(linear, center top, center bottom, from(#8eccfd), to(#bfe2fe));\n		background-image: -webkit-linear-gradient(top, #8eccfd, #bfe2fe);\n		background-image: linear-gradient(top, #8eccfd, #bfe2fe);\n\n\n		'>\n		<div id='title' style='color:red;margin-bottom:10px;'>\n			<img src='logotournoi.gif' /> <br />\n		</div>\n		<div id='content' style='font-size:17px;'>	\n			<br /><br />\n\n			Avant votre d&eacute;part en vacances, venez participer au tournoi amical au club de squash de Louvigny, ouvert &agrave; tous les joueurs et joueuses !<br />\n			Seuls crit&egrave;res requis: \n			<ul>\n				<li>Une raquette (de squash <img src='smiley.gif' width='30' height='33'/> )\n					<li>De la bonne humeur \n					</ul>\n					Il se d&eacute;roulera du vendredi 22 juin &agrave; 18 heures au samedi 23 juin. Un barbecue sera organis&eacute; le midi (tarif &agrave; d&eacute;finir).\n					Venez s&eacute;l&eacute;ctionner vos partenaires pour la saison prochaine !<br />\n					<div id='tarifs' style='margin-top:90px;float:left;border:1 px solid white;padding:3px; width:24%; text-align:center;'> INSCRIPTION:<br />\n						10&euro;<br />\n					</div>\n					<div style='margin-top:30px;margin-right:10px;float:right;width:70%;'>\n						<center><span style='font-weight:bold;'<b>Date limite d'inscription le 13 juin</b></span></center><br />\n						Par mail sur <a href=\"mailto:association.squash.louvigny@gmail.com\">association.squash.louvigny@gmail.com</a> ou par t&eacute;l&eacute;phone aux num&eacute;ros ci-dessous.<br />\n						Pout toutes questions, n'h&eacute;sitez pas &agrave; contacter S&eacute;bastien (06.04.50.57.94), Vincent (06.64.98.88.15) ou Mathieu (06.13.74.49.61)\n					</div>\n					<div id='pics' style='position:absolute; top:600px; left:150px;'><img src='squash-300x139.jpg' /></div>\n				</div>\n			</div>\n		</body></html> ",
 					"indent"
 				],
@@ -112,6 +349,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"Vous"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -119,35 +357,619 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 155.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"tas",
+						"tasks_tab"
+					],
+					[
+						"pr",
+						"projectId"
+					],
+					[
+						"mysql_nu",
+						"mysql_num_rows"
+					],
+					[
+						"Ho",
+						"HorseCollection"
+					],
+					[
+						"ser",
+						"serverUrl"
+					],
+					[
+						"HO",
+						"HorseCollection"
+					],
+					[
+						"H",
+						"Horse"
+					],
+					[
+						"req",
+						"request_method"
+					],
+					[
+						"mo",
+						"Model"
+					],
+					[
+						"mysql_",
+						"mysql_connect"
+					],
+					[
+						"Pr",
+						"product"
+					],
+					[
+						"image",
+						"image_url"
+					],
+					[
+						"h",
+						"h1	Tag"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"tota",
+						"totalPlayer"
+					],
+					[
+						"st",
+						"stats"
+					],
+					[
+						"question",
+						"questionList"
+					],
+					[
+						"butt",
+						"buttonClass"
+					],
+					[
+						"rout",
+						"routeParams"
+					],
+					[
+						"qi",
+						"QuestionController"
+					],
+					[
+						"to",
+						"total"
+					],
+					[
+						"poin",
+						"pointsToAdd"
+					],
+					[
+						"but",
+						"buttonClass"
+					],
+					[
+						"Back",
+						"BackGround"
+					],
+					[
+						"ques",
+						"questions"
+					],
+					[
+						"Bac",
+						"Background"
+					],
+					[
+						"n",
+						"newBg"
+					],
+					[
+						"rou",
+						"routeParams"
+					],
+					[
+						"nex",
+						"nextId"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"que",
+						"questionList"
+					],
+					[
+						"quest",
+						"questionList"
+					],
+					[
+						"qu",
+						"questionList"
+					],
+					[
+						"poi",
+						"pointsToAdd"
+					],
+					[
+						"po",
+						"pointsToAdd"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<html>\n<head>\n	<title>Your Javascript libraries references</title>\n</head>\n<body>\n<span class=\"teaser\">Looking for a Javascript library ? We've got you coverd !</span>\n</body>\n</html>",
+					"file": "/Users/sylv/Desktop/index.html",
+					"file_size": 332,
+					"file_write_time": 1370680212000000,
+					"settings":
+					{
+						"buffer_size": 183,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/sylv/Sites/BBone/PT/sample-tasks/client/js/tasks.js",
+					"settings":
+					{
+						"buffer_size": 11944,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/sylv/Sites/BBone/PT/sample-tasks/server/index2.php",
+					"settings":
+					{
+						"buffer_size": 6292,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/sylv/Sites/BBone/PT/sample-tasks/server/index.php",
+					"settings":
+					{
+						"buffer_size": 6322,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/sylv/Sites/BBone/PT/sample-tasks/client/index.html",
+					"settings":
+					{
+						"buffer_size": 5105,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/sylv/Sites/BBone/PT/bdd.php",
+					"settings":
+					{
+						"buffer_size": 2266,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<?php\n\n$db = mysql_connect(\"localhost\", \"root\", \"root\");\nmysql_select_db(\"PT\", $db);\n$request_method = strtolower($_SERVER['REQUEST_METHOD']);\n//echo ($request_method);\n// $data = json_decode(file_get_contents('php://input'));\n// // $name = $data->{'name'};\n// // echo $name;\n// $results=mysql_query(\"select * from test\");\n// echo ($results);\n// //mysql_query(\"INSERT INTO test SET name='$name'\");\n\nswitch($_SERVER['REQUEST_METHOD']){\n	case 'POST':\n	save();\n	break;\n	case 'GET':\n	fetch();\n	break;\n	case 'PUT':\n	save();\n	break;\n	case 'DELETE':\n                    // delete item\n	destroy();\n	break;\n}\n$data = json_decode(file_get_contents('php://input'));\n//$name = $data->{'name'};\n// $id = $data->{'id'};\n	//echo $name;\n\nfunction save() {\n	$pdo=new PDO(\"mysql:dbname=PT;host=localhost\",\"root\",\"root\");\n\n	$sql = \"INSERT INTO test (name) VALUES ('\".$name.\"')\";\n	//echo \"sql :\".$sql.\"\\n\\n\";\n	$statement=$pdo->prepare($sql);\n	$statement->execute();\n	//$results=$statement->fetchAll(PDO::FETCH_ASSOC);\n	echo json_encode($results);\n}\nfunction fetch(){\n	//echo \"fetching \".$_GET['find'];\n	$tab = split(';', $_GET['find']);\n	$data = array();\n	foreach ($tab as &$s){\n		echo \"--> \".$s;\n		$sql = \"select DISTINCTROW h.id as horse_id, h.*, p.id as perf_id, p.* from horse h, perf p where h.name='\".$s.\"' AND h.id = p.horse_id ORDER BY p.id DESC LIMIT 3\";\n	//if (isset($_GET['id'])) $sql .= \" WHERE id =\".$_GET['id'];\n	echo \"<br />fetch sql \".$sql.\"<br />\";\n	// $statement=$pdo->prepare($sql);\n	// $statement->execute();\n	// $results=$statement->fetchAll(PDO::FETCH_ASSOC);\n	//$results=$statement->fetchObject();\n\n		$result = mysql_query($sql);\n		$i = 3;\n		$content = array();\n		if (mysql_num_rows($result) > 0) {\n			while($info = mysql_fetch_array($result))\n			{\n				echo \"within name : \".$info['name'];\n				$content['id'] = $info['id'];\n				$content['name'] = $info['name'];\n				$content['notes'] = $info['notes'];\n				$content['d4_'.$i] = $info['d4'];\n				$content['dp_'.$i] = $info['dp'];\n				$content['da_'.$i] = $info['da'];\n				$content['km_'.$i] = $info['km'];\n				$content['cc_'.$i] = $info['cc'];\n				$content['t_rect_'.$i] = $info['t_rect'];\n				$content['m_cc'] = $info['m_cc'];\n				$content['m_km'.$i] = $info['m_km'];\n				$content['m_t_rect'] = $info['m_t_rect'];\n				$i--;\n\n			}\n			$data[] = $content;\n		}\n\n	}\n	var_dump($data);\n	header('Content-type: application/json');\n	echo json_encode($data);\n	// echo json_encode(array(\"horse\" => $results, \"status\" => 200));\n}\n?>",
+					"settings":
+					{
+						"buffer_size": 2471,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/sylv/Sites/BBone/PT/index.html",
+					"settings":
+					{
+						"buffer_size": 854,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/sylv/Sites/BBone/PT/js/main.js",
+					"settings":
+					{
+						"buffer_size": 595,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "var serverUrl = 'bdd.php/';\n\nvar Horse = Backbone.Model.extend({\n	initialize: function(){\n		console.log(\"horse created\");\n	},\n	defaults: {\n		id: null,\n		name: '',\n		notes: '',\n		d4_3: 0,\n		dp_3: 0,\n		da_3: 0,\n		d4_2: 0,\n		dp_2: 0,\n		da_2: 0,\n		d4_1: 0,\n		dp_1: 0,\n		da_1: 0,\n		km_1: 0,\n		km_2: 0,\n		km_3: 0,\n		cc_1: 0,\n		cc_2: 0,\n		cc_3: 0,\n		m_cc: 0,\n		m_km: 0,\n		m_t_rect: 0,\n		moy: 0,\n		m_moy: 0\n	},\n	urlRoot: serverUrl + 'horse'\n});\n\nvar HorseCollection = Backbone.Collection.extend({\n	model: Horse,\n	url: serverUrl + 'horse'\n});\n\nvar Consult = Backbone.View.extend({\n	el: $('#form'),\n	events: {\n		\"click button#submit\": \"search\"\n	},	\n	search: function(){\n		//console.log(\"log : \",$(\"#txt\").val());\n		var toSearch = \"\";\n		var lines = $(\"#txt\").val().split(\"\\n\");\n		for (t in lines){\n			console.log(\" -> \", lines[t].split(\"\\t\")[2].trim())\n			var toSearch = toSearch + (lines[t].split(\"\\t\")[2].trim()).replace(\"'\", \"''\") + \";\";\n		}\n		horses = new HorseCollection();\n		console.log(\"fuck\");\n		horses.fetch({data: {'find': toSearch}, processData: true, success: function() {\n			console.log(horses);\n			var h = horses.get(1);\n			console.log(\"my horse : \", h.attributes);\n		}, error: function() {\n			console.log('ERROR');\n		}\n	});\n\n	}\n});\n\nvar c = new Consult();",
+					"settings":
+					{
+						"buffer_size": 1259,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/sylv/Sites/BBone/caencamp/js/script_JS.js",
+					"settings":
+					{
+						"buffer_size": 3588,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 147.0,
+				"selected_items":
+				[
+					[
+						"fold",
+						"Project: Add Folder"
+					],
+					[
+						"trai",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"tra",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"fol",
+						"Project: Add Folder"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"trail",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"syn",
+						"Set Syntax: PHP"
+					],
+					[
+						"folde",
+						"Project: Add Folder"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"packac",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/sylv/Sites/BBone/caencamp/index.html",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/CSSLint/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/sylv/Sites/BBone/caencamp/js/script_JS.js",
+				"/Users/sylv/Sites/BBone/PT/main.js",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/js/main.js",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/index.html",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/markup.html",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/doc/tasks.sql",
+				"/Users/sylv/Sites/BBone/PT/bdd.php",
+				"/Users/sylv/Sites/Ruby/RoR/depot/test/unit/product_test.rb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/test/fixtures/products.yml",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/models/product.rb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/db/test.sqlite3",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/client/js/tasks.js",
+				"/Users/sylv/Sites/BBone/PT/sample-tasks/server/index.php",
+				"/Users/sylv/Sites/BBone/PT/js/main.js",
+				"/Users/sylv/Sites/BBone/PT/test.php",
+				"/Users/sylv/Sites/BBone/PT/index.html",
+				"/Users/sylv/Sites/Ruby/RoR/depot/test/functional/products_controller_test.rb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/assets/stylesheets/scaffolds.css.scss",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/assets/stylesheets/products.css.scss",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/views/products/index.html.erb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/views/layouts/application.html.erb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/controllers/products_controller.rb",
+				"/Users/sylv/Sites/Ruby/RoR/depot/public/index.html",
+				"/Users/sylv/Sites/Ruby/RoR/depot/public/stylesheets/products.css.scss",
+				"/Users/sylv/Sites/Ruby/RoR/depot/app/assets/stylesheets/application.css",
+				"/Users/sylv/Sites/Ruby/RoR/depot/db/seeds.rb",
+				"/Users/sylv/Sites/Ruby/RoR/demo/app/views/say/goodbye.html.erb",
+				"/Users/sylv/Sites/Ruby/RoR/demo/app/views/say/hello.html.erb",
+				"/Users/sylv/Sites/Ruby/RoR/demo/db/seeds.rb",
+				"/Users/sylv/Sites/test_antho/index.html",
+				"/Users/sylv/Sites/test_antho/js/main.js",
+				"/Users/sylv/Sites/test_antho/test_json.php",
+				"/Users/sylv/Sites/test_antho/css/style.css",
+				"/Users/sylv/Sites/cesi2.dev/public/js/prod.js",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/html5.sublime-snippet",
+				"/Users/sylv/Sites/jingleweb/js/script.js",
+				"/Users/sylv/Sites/BBone/main.js",
+				"/Users/sylv/Sites/cesi2.dev/public/js/stock.js",
+				"/Users/sylv/Sites/cesi2.dev/public/js/jquery.js",
+				"/Users/sylv/Sites/cesi2.dev/application/views/scripts/prod/createnom.phtml",
+				"/Users/sylv/Sites/JS/angular/app/js/controllers.js",
+				"/Users/sylv/Sites/JS/angular/ecom/js/app.js",
+				"/Users/sylv/Sites/JS/angular/ecom/partials/result.html",
+				"/Users/sylv/Sites/JS/angular/ecom/partials/welcome.html",
+				"/Users/sylv/Sites/JS/angular/ecom/index.html",
+				"/Users/sylv/Sites/JS/angular/ecom/css/app.css",
+				"/Users/sylv/Sites/JS/angular/ecom/partials/question.html",
+				"/Users/sylv/Sites/JS/angular/ecom/js/controllers.js",
+				"/Users/sylv/Sites/JS/angular/app/css/app.css",
+				"/Users/sylv/Sites/JS/angular/ecom/t.html",
+				"/Users/sylv/Sites/JS/angular/app/partials/view.html",
+				"/Users/sylv/Sites/JS/angular/app/node/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js",
+				"/Users/sylv/Sites/JS/angular/app/node/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html",
+				"/Users/sylv/Sites/JS/angular/app/partials/list.html",
+				"/Users/sylv/Sites/JS/angular/ecom/js/sqlite.js",
+				"/Users/sylv/Desktop/t",
+				"/Users/sylv/Sites/JS/angular/ecom/js/directives.js",
+				"/Users/sylv/Sites/JS/angular/ecom/img/glyphicons-halflings.png",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/Example.sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/sylv/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/Users/sylv/Sites/asl.html"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"controller.js"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"super+e",
+					"taskLis",
+					"tasks",
+					"serverU",
+					"php",
+					"remo",
+					"vos vo",
+					"vous",
+					"[[]]",
+					"select",
+					"backgr",
+					"brackets",
+					"bracket",
+					"curl",
+					"color",
+					"	<html>\n	<body>\n		<div style='padding:10px;width:500px;height:730px;border:1px solid black;border-radius: 20px;-moz-border-radius: 20px;\n		-webkit-border-radius: 20px;\n		border-radius: 20px;\n		background-image: -moz-linear-gradient(top, #8eccfd, #bfe2fe);\n		background-image: -ms-linear-gradient(top, #8eccfd, #bfe2fe);\n		background-image: -o-linear-gradient(top, #8eccfd, #bfe2fe);\n		background-image: -webkit-gradient(linear, center top, center bottom, from(#8eccfd), to(#bfe2fe));\n		background-image: -webkit-linear-gradient(top, #8eccfd, #bfe2fe);\n		background-image: linear-gradient(top, #8eccfd, #bfe2fe);\n\n\n		'>\n		<div id='title' style='color:red;margin-bottom:10px;'>\n			<img src='logotournoi.gif' /> <br />\n		</div>\n		<div id='content' style='font-size:17px;'>	\n			<br /><br />\n\n			Avant votre d&eacute;part en vacances, venez participer au tournoi amical au club de squash de Louvigny, ouvert &agrave; tous les joueurs et joueuses !<br />\n			Seuls crit&egrave;res requis: \n			<ul>\n				<li>Une raquette (de squash <img src='smiley.gif' width='30' height='33'/> )\n					<li>De la bonne humeur \n					</ul>\n					Il se d&eacute;roulera du vendredi 22 juin &agrave; 18 heures au samedi 23 juin. Un barbecue sera organis&eacute; le midi (tarif &agrave; d&eacute;finir).\n					Venez s&eacute;l&eacute;ctionner vos partenaires pour la saison prochaine !<br />\n					<div id='tarifs' style='margin-top:90px;float:left;border:1 px solid white;padding:3px; width:24%; text-align:center;'> INSCRIPTION:<br />\n						10&euro;<br />\n					</div>\n					<div style='margin-top:30px;margin-right:10px;float:right;width:70%;'>\n						<center><span style='font-weight:bold;'<b>Date limite d'inscription le 13 juin</b></span></center><br />\n						Par mail sur <a href=\"mailto:association.squash.louvigny@gmail.com\">association.squash.louvigny@gmail.com</a> ou par t&eacute;l&eacute;phone aux num&eacute;ros ci-dessous.<br />\n						Pout toutes questions, n'h&eacute;sitez pas &agrave; contacter S&eacute;bastien (06.04.50.57.94), Vincent (06.64.98.88.15) ou Mathieu (06.13.74.49.61)\n					</div>\n					<div id='pics' style='position:absolute; top:600px; left:150px;'><img src='squash-300x139.jpg' /></div>\n				</div>\n			</div>\n		</body></html> ",
+					"indent"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Vous"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/sylv/Sites/JS/angular/ecom"
+				},
+				{
+					"path": "/Users/sylv/Sites/JS/angular/app"
+				},
+				{
+					"path": "/Users/sylv/Sites/cesi2.dev/public/js"
+				},
+				{
+					"path": "/Users/sylv/Sites/Ruby/RoR/depot"
+				},
+				{
+					"path": "/Users/sylv/Sites/BBone/PT"
+				},
+				{
+					"path": "/Users/sylv/Sites/BBone/caencamp"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 8,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/sylv/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+							"file": "/Users/sylv/Desktop/index.html",
 							"settings":
 							{
-								"buffer_size": 56,
+								"buffer_size": 183,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										25,
-										25
+										183,
+										183
 									]
 								],
 								"settings":
 								{
+									"BracketHighlighterBusy": false,
 									"annotations":
 									[
 										"TODO",
 										"README",
 										"FIXME"
+									],
+									"auto_name": "",
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
 									],
 									"csslint_options":
 									{
@@ -232,7 +1054,7 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+									"syntax": "Packages/HTML/HTML.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -242,26 +1064,71 @@
 						},
 						{
 							"buffer": 1,
+							"file": "/Users/sylv/Sites/BBone/PT/sample-tasks/client/js/tasks.js",
 							"settings":
 							{
-								"buffer_size": 3806,
+								"buffer_size": 11944,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3806,
-										3806
+										4325,
+										4332
 									]
 								],
 								"settings":
 								{
+									"BracketHighlighterBusy": false,
 									"annotations":
 									[
 										"TODO",
 										"README",
 										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
 									],
 									"csslint_options":
 									{
@@ -346,13 +1213,1272 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true,
-									"word_wrap": true
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 4586.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/sylv/Sites/BBone/PT/sample-tasks/server/index2.php",
+							"settings":
+							{
+								"buffer_size": 6292,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										958,
+										962
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 709.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/sylv/Sites/BBone/PT/sample-tasks/server/index.php",
+							"settings":
+							{
+								"buffer_size": 6322,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1417,
+										1417
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 238.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/sylv/Sites/BBone/PT/sample-tasks/client/index.html",
+							"settings":
+							{
+								"buffer_size": 5105,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4661,
+										4670
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/sylv/Sites/BBone/PT/bdd.php",
+							"settings":
+							{
+								"buffer_size": 2266,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2090,
+										2090
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 549.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"settings":
+							{
+								"buffer_size": 2471,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2471,
+										2471
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 639.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/sylv/Sites/BBone/PT/index.html",
+							"settings":
+							{
+								"buffer_size": 854,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										500,
+										500
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/sylv/Sites/BBone/PT/js/main.js",
+							"settings":
+							{
+								"buffer_size": 595,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										588,
+										588
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"settings":
+							{
+								"buffer_size": 1259,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1259,
+										1259
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 309.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/Users/sylv/Sites/BBone/caencamp/js/script_JS.js",
+							"settings":
+							{
+								"buffer_size": 3588,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2707,
+										2811
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1324.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -417,9 +2543,9 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 155.0,
 			"status_bar_visible": true,
-			"window_id": 1,
+			"window_id": 3,
 			"workspace_name": ""
 		}
 	],
